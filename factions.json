@@ -1,0 +1,42 @@
+[
+  {
+    "id": "neutral",
+    "name": "Neutral"
+  },
+  {
+    "id": "space_marines",
+    "name": "Space Marines"
+  },
+  {
+    "id": "astra_militarum",
+    "name": "Astra Militarum"
+  },
+  {
+    "id": "orks",
+    "name": "Orks"
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos"
+  },
+  {
+    "id": "dark_eldar",
+    "name": "Dark Eldar"
+  },
+  {
+    "id": "eldar",
+    "name": "Eldar"
+  },
+  {
+    "id": "tau",
+    "name": "Tau"
+  },
+  {
+    "id": "tyranids",
+    "name": "Tyranids"
+  },
+  {
+    "id": "necrons",
+    "name": "Necrons"
+  }
+]

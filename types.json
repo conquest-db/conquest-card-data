@@ -1,54 +1,26 @@
 [
   {
-    "id": "gear",
-    "name": "Gear"
+    "id": "warlord",
+    "name": "Warlord"
+  },
+  {
+    "id": "army",
+    "name": "Army"
+  },
+  {
+    "id": "synapse",
+    "name": "Synapse"
+  },
+  {
+    "id": "support",
+    "name": "Support"
   },
   {
     "id": "attachment",
     "name": "Attachment"
   },
   {
-    "id": "moment",
-    "name": "Moment"
-  },
-  {
-    "id": "role",
-    "name": "Role"
-  },
-  {
-    "id": "aspect",
-    "name": "Aspect"
-  },
-  {
-    "id": "attribute",
-    "name": "Attribute"
-  },
-  {
-    "id": "being",
-    "name": "Being"
-  },
-  {
-    "id": "feature",
-    "name": "Feature"
-  },
-  {
-    "id": "stat",
-    "name": "Stat"
-  },
-  {
-    "id": "malady",
-    "name": "Malady"
-  },
-  {
-    "id": "mission",
-    "name": "Mission"
-  },
-  {
-    "id": "location",
-    "name": "Location"
-  },
-  {
-    "id": "challenge",
-    "name": "Challenge"
+    "id": "event",
+    "name": "Event"
   }
 ]
