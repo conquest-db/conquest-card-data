@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Language: pseudo\n"
+"Plural-Forms: nplurals=2l plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "neutral.name"
+msgid "Neutral"
+msgstr ""
+
+msgctxt "space_marines.name"
+msgid "Space Marines"
+msgstr ""
+
+msgctxt "astra_militarum.name"
+msgid "Astra Militarum"
+msgstr ""
+
+msgctxt "orks.name"
+msgid "Orks"
+msgstr ""
+
+msgctxt "chaos.name"
+msgid "Chaos"
+msgstr ""
+
+msgctxt "dark_eldar.name"
+msgid "Dark Eldar"
+msgstr ""
+
+msgctxt "eldar.name"
+msgid "Eldar"
+msgstr ""
+
+msgctxt "tau.name"
+msgid "Tau"
+msgstr ""
+
+msgctxt "tyranids.name"
+msgid "Tyranids"
+msgstr ""
+
+msgctxt "necrons.name"
+msgid "Necrons"
+msgstr ""

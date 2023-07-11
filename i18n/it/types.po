@@ -13,54 +13,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2.2\n"
 
-msgctxt "gear.name"
-msgid "Gear"
-msgstr "Strumento"
+msgctxt "warlord.name"
+msgid "Warlord"
+msgstr ""
+
+msgctxt "army.name"
+msgid "Army"
+msgstr ""
+
+msgctxt "synapse.name"
+msgid "Synapse"
+msgstr ""
+
+msgctxt "support.name"
+msgid "Support"
+msgstr ""
 
 msgctxt "attachment.name"
 msgid "Attachment"
-msgstr "Aggiunta"
+msgstr ""
 
-msgctxt "moment.name"
-msgid "Moment"
-msgstr "Momento"
-
-msgctxt "role.name"
-msgid "Role"
-msgstr "Ruolo"
-
-msgctxt "aspect.name"
-msgid "Aspect"
-msgstr "Aspetto"
-
-msgctxt "attribute.name"
-msgid "Attribute"
-msgstr "Attributo"
-
-msgctxt "being.name"
-msgid "Being"
-msgstr "Essere"
-
-msgctxt "feature.name"
-msgid "Feature"
-msgstr "Elemento"
-
-msgctxt "stat.name"
-msgid "Stat"
-msgstr "Punteggio"
-
-msgctxt "malady.name"
-msgid "Malady"
-msgstr "Malanno"
-
-msgctxt "mission.name"
-msgid "Mission"
-msgstr "Missione"
-
-msgctxt "location.name"
-msgid "Location"
-msgstr "Luogo"
-
-msgctxt "challenge.name"
-msgid "Challenge"
-msgstr "Sfida"
+msgctxt "event.name"
+msgid "Event"
+msgstr ""

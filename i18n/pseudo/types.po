@@ -11,54 +11,26 @@ msgstr ""
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
 
-msgctxt "gear.name"
-msgid "Gear"
+msgctxt "warlord.name"
+msgid "Warlord"
+msgstr ""
+
+msgctxt "army.name"
+msgid "Army"
+msgstr ""
+
+msgctxt "synapse.name"
+msgid "Synapse"
+msgstr ""
+
+msgctxt "support.name"
+msgid "Support"
 msgstr ""
 
 msgctxt "attachment.name"
 msgid "Attachment"
 msgstr ""
 
-msgctxt "moment.name"
-msgid "Moment"
-msgstr ""
-
-msgctxt "role.name"
-msgid "Role"
-msgstr ""
-
-msgctxt "aspect.name"
-msgid "Aspect"
-msgstr ""
-
-msgctxt "attribute.name"
-msgid "Attribute"
-msgstr ""
-
-msgctxt "being.name"
-msgid "Being"
-msgstr ""
-
-msgctxt "feature.name"
-msgid "Feature"
-msgstr ""
-
-msgctxt "stat.name"
-msgid "Stat"
-msgstr ""
-
-msgctxt "malady.name"
-msgid "Malady"
-msgstr ""
-
-msgctxt "mission.name"
-msgid "Mission"
-msgstr ""
-
-msgctxt "location.name"
-msgid "Location"
-msgstr ""
-
-msgctxt "challenge.name"
-msgid "Challenge"
+msgctxt "event.name"
+msgid "Event"
 msgstr ""
