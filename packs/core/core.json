@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "pack_id": "core",
     "id": "COR001",
@@ -2334,7 +2334,7 @@
     "quantity": 3,
     "unique": false,
     "traits": "Ally, Scout",
-    "text": "+1 [Card] when command struggle won at this planet.<br/> +1 [RESOURCE] when command struggle won at this planet.",
+    "text": "+1 [CARD] when command struggle won at this planet.<br/> +1 [RESOURCE] when command struggle won at this planet.",
     "cost": 2,
     "attack": 0,
     "health": 2,
