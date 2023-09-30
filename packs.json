@@ -181,5 +181,11 @@
     "name": "Legions of Death",
     "position": 1,
     "cycle_id": "legions_of_death"
+  },
+  {
+    "id": "the_great_devourer",
+    "name": "The Great Devourer",
+    "position": 1,
+    "cycle_id": "the_great_devourer"
   }
 ]

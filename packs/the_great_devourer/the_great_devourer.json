@@ -1,6 +1,6 @@
 [
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD001",
         "position": "10333",
         "name": "“Old One Eye”",
@@ -28,7 +28,7 @@
         "back_tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1797474920286940688/D562EA14EB1CF9FD908E0E156871E22193435B85/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD002",
         "position": "10335",
         "name": "Lurking Hormagaunt",
@@ -51,7 +51,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD003",
         "position": "10336",
         "name": "Awakening Cavern",
@@ -74,7 +74,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116680722/A0D749F6CD889594175347D0A2F4D048B743582E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD004",
         "position": "10337",
         "name": "Ferocious Strength",
@@ -97,7 +97,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116686486/209AF2C05FB1D2794AEF32C93996DCB28C8BD11E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD005",
         "position": "10338",
         "name": "Great Scything Talons",
@@ -120,7 +120,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116688682/FC2276338A6F96B4F04DD4C77D613DF55C221E7E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD006",
         "position": "10339",
         "name": "“The Swarmlord”",
@@ -148,7 +148,7 @@
         "back_tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1796351328360429756/25D5BC7545146C4D1B945F6073860BCFCE534962/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD007",
         "position": "10341",
         "name": "Brood Warriors",
@@ -171,7 +171,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD008",
         "position": "10342",
         "name": "Leviathan Hive Ship",
@@ -194,7 +194,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD009",
         "position": "10343",
         "name": "Indescribable Horror",
@@ -217,7 +217,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116688682/FC2276338A6F96B4F04DD4C77D613DF55C221E7E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD010",
         "position": "10344",
         "name": "Bone Sabres",
@@ -240,7 +240,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD011",
         "position": "10345",
         "name": "Savage Warrior Prime",
@@ -263,7 +263,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116693127/B0216B7C3FC16EFF253B71D35C2087F3430F4D73/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD012",
         "position": "10346",
         "name": "Blazing Zoanthrope",
@@ -286,7 +286,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116680722/A0D749F6CD889594175347D0A2F4D048B743582E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD013",
         "position": "10347",
         "name": "Gravid Tervigon",
@@ -309,7 +309,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116688682/FC2276338A6F96B4F04DD4C77D613DF55C221E7E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD014",
         "position": "10348",
         "name": "Stalking Lictor",
@@ -332,7 +332,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116697664/2CC7CB92379689A76D8A74DD1835D783CF4E346B/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD015",
         "position": "10349",
         "name": "Venomthrope Polluter",
@@ -355,7 +355,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD016",
         "position": "10350",
         "name": "Ripper Swarm",
@@ -378,7 +378,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116693127/B0216B7C3FC16EFF253B71D35C2087F3430F4D73/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD017",
         "position": "10351",
         "name": "Strangler Brood",
@@ -401,7 +401,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116697664/2CC7CB92379689A76D8A74DD1835D783CF4E346B/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD018",
         "position": "10352",
         "name": "Termagant Sentry",
@@ -424,7 +424,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD019",
         "position": "10353",
         "name": "Hunter Gargoyles",
@@ -447,7 +447,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116688682/FC2276338A6F96B4F04DD4C77D613DF55C221E7E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD020",
         "position": "10354",
         "name": "Virulent Spore Sacs",
@@ -470,7 +470,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD021",
         "position": "10355",
         "name": "Scything Hormagaunts",
@@ -493,7 +493,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116694948/EFF070E4261AE72F0918CD15237C1EE6D204EB72/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD022",
         "position": "10356",
         "name": "Toxic Venomthrope",
@@ -516,7 +516,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD023",
         "position": "10357",
         "name": "Termagant Horde",
@@ -539,7 +539,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD024",
         "position": "10358",
         "name": "Volatile Pyrovore",
@@ -562,7 +562,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116701677/05524AC4ADF58C65DDA5D2D5BD1315DC4F6AF1FD/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD025",
         "position": "10359",
         "name": "Termagant Spikers",
@@ -585,7 +585,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD026",
         "position": "10360",
         "name": "Tyranid Warrior",
@@ -608,7 +608,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116699502/CE6AF2765BB609092897CC084CEEEB485359DCE5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD027",
         "position": "10361",
         "name": "Swarm Guard",
@@ -631,7 +631,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116697664/2CC7CB92379689A76D8A74DD1835D783CF4E346B/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD028",
         "position": "10362",
         "name": "Adamant Hive Guard",
@@ -654,7 +654,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116680722/A0D749F6CD889594175347D0A2F4D048B743582E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD029",
         "position": "10363",
         "name": "Ymgarl Genestealer",
@@ -677,7 +677,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116701677/05524AC4ADF58C65DDA5D2D5BD1315DC4F6AF1FD/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD030",
         "position": "10364",
         "name": "Ravenous Haruspex",
@@ -700,7 +700,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116693127/B0216B7C3FC16EFF253B71D35C2087F3430F4D73/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD031",
         "position": "10365",
         "name": "Biovore Spore Launcher",
@@ -723,7 +723,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116680722/A0D749F6CD889594175347D0A2F4D048B743582E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD032",
         "position": "10366",
         "name": "Shrieking Harpy",
@@ -746,7 +746,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116694948/EFF070E4261AE72F0918CD15237C1EE6D204EB72/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD033",
         "position": "10367",
         "name": "Burrowing Trygon",
@@ -769,7 +769,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD034",
         "position": "10368",
         "name": "Clogged with Corpses",
@@ -792,7 +792,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD035",
         "position": "10369",
         "name": "Predation",
@@ -815,7 +815,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116693127/B0216B7C3FC16EFF253B71D35C2087F3430F4D73/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD036",
         "position": "10370",
         "name": "Spawn Termagants",
@@ -838,7 +838,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116694948/EFF070E4261AE72F0918CD15237C1EE6D204EB72/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD037",
         "position": "10371",
         "name": "Spore Burst",
@@ -861,7 +861,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116694948/EFF070E4261AE72F0918CD15237C1EE6D204EB72/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD038",
         "position": "10372",
         "name": "Dark Cunning",
@@ -884,7 +884,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD039",
         "position": "10373",
         "name": "Consumption",
@@ -907,7 +907,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD040",
         "position": "10374",
         "name": "Regeneration",
@@ -930,7 +930,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116693127/B0216B7C3FC16EFF253B71D35C2087F3430F4D73/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD041",
         "position": "10375",
         "name": "Noxious Fleshborer",
@@ -953,7 +953,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD042",
         "position": "10376",
         "name": "Pincer Tail",
@@ -976,7 +976,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD043",
         "position": "10377",
         "name": "Parasitic Infection",
@@ -999,7 +999,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD044",
         "position": "10378",
         "name": "Heavy Venom Cannon",
@@ -1022,7 +1022,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116688682/FC2276338A6F96B4F04DD4C77D613DF55C221E7E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD045",
         "position": "10379",
         "name": "Brood Chamber",
@@ -1045,7 +1045,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116682741/5866EE93EF09180BD62BFA68F90362FBC87AF2D2/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD046",
         "position": "10380",
         "name": "Digestion Pool",
@@ -1068,7 +1068,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116686486/209AF2C05FB1D2794AEF32C93996DCB28C8BD11E/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD047",
         "position": "10381",
         "name": "Mycetic Spores",
@@ -1091,7 +1091,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116690537/6745DED0D50F2498BC4ECC932609B78F763C5CBC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD048",
         "position": "10382",
         "name": "Spore Chimney",
@@ -1114,7 +1114,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116694948/EFF070E4261AE72F0918CD15237C1EE6D204EB72/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD049",
         "position": "10383",
         "name": "Synaptic Link",
@@ -1137,7 +1137,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116697664/2CC7CB92379689A76D8A74DD1835D783CF4E346B/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD050",
         "position": "10384",
         "name": "Veteran Barbrus",
@@ -1160,7 +1160,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116559072/938E20E3C8AE5C68CDD8645BE516E6608F301E26/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD051",
         "position": "10385",
         "name": "Vengeance!",
@@ -1183,7 +1183,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116559072/938E20E3C8AE5C68CDD8645BE516E6608F301E26/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD052",
         "position": "10386",
         "name": "Seraphim Superior Allegra",
@@ -1206,7 +1206,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814290738011737/F92080EC0CDB46871AF635A1021569E7D63BDEC5/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD053",
         "position": "10387",
         "name": "Holy Fusillade",
@@ -1229,7 +1229,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814290737979382/E41159126D641BB8679ECBACB0DAF5BAA063F449/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD054",
         "position": "10388",
         "name": "Boss Zugnog",
@@ -1252,7 +1252,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116451883/593F9ACCE1D9531A62B8D494680B9A8B4312D184/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD055",
         "position": "10389",
         "name": "Ork Landa",
@@ -1275,7 +1275,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116497267/0B07C4A026D6F9BD502C43B059E19BC5178BF2CF/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD056",
         "position": "10390",
         "name": "Roghrax Bloodhand",
@@ -1298,7 +1298,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996603866/F86B3D6E5803D4013754E5134EC5F72878DA6A8A/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD057",
         "position": "10391",
         "name": "Ecstatic Seizures",
@@ -1321,7 +1321,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996592483/BAF748B95E31B333504825931AB86A53E712565C/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD058",
         "position": "10392",
         "name": "Solarite Avetys",
@@ -1344,7 +1344,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996610859/8F241EC6C526B619958B377F5120CF71CC99A623/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD059",
         "position": "10393",
         "name": "Dark Possession",
@@ -1367,7 +1367,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996628829/EBD56E11F85CC2D4BBD8B775AFE90D1579677DB7/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD060",
         "position": "10394",
         "name": "Autarch Celachia",
@@ -1390,7 +1390,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996636906/0461BB5D903AF879048FDE04135AD7D8E87D05C3/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD061",
         "position": "10395",
         "name": "Subdual",
@@ -1413,7 +1413,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814370996660424/6A8D280218737C89EE79EE28B621246E3B77450B/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD062",
         "position": "10396",
         "name": "Pathfinder Shi Or'es",
@@ -1436,7 +1436,7 @@
         "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746814707116647635/F40F9650671CF5B21E7C386FDD47E3789613A8FC/"
     },
     {
-        "pack_id": "The Great Devourer",
+        "pack_id": "the_great_devourer",
         "id": "TGD063",
         "position": "10397",
         "name": "Repair Bay",
