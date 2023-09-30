@@ -3,5 +3,50 @@
     "id": "core",
     "name": "Core set",
     "position": 1
+  },
+  {
+    "id": "chronicles_of_heroes",
+    "name": "Chronicles of Heroes",
+    "position": 2
+  },
+  {
+    "id": "confrontation_cycle",
+    "name": "Confrontation Cycle",
+    "position": 3
+  },
+  {
+    "id": "death_world_cycle",
+    "name": "Death World Cycle",
+    "position": 4
+  },
+  {
+    "id": "legions_of_death",
+    "name": "Legions of Death",
+    "position": 5
+  },
+  {
+    "id": "navida_prime_cycle",
+    "name": "Navida Prime Cycle",
+    "position": 6
+  },
+  {
+    "id": "planetfall_cycle",
+    "name": "Planetfall Cycle",
+    "position": 7
+  },
+  {
+    "id": "the_bloodied_path",
+    "name": "The Bloodied Path",
+    "position": 8
+  },
+  {
+    "id": "the_great_devourer",
+    "name": "The Great Devourer",
+    "position": 9
+  },
+  {
+    "id": "warlord_cycle",
+    "name": "Warlord Cycle",
+    "position": 10
   }
 ]
