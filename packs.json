@@ -2,51 +2,184 @@
   {
     "id": "core",
     "name": "Core set",
+    "cycle_id": "core",
     "position": 1
+  },
+  {
+    "id": "the_howl_of_blackmane",
+    "name": "the_howl_of_blackmane",
+    "cycle_id": "warlord_cycle",
+    "position": 1
+  },
+  {
+    "id": "the_scourge",
+    "name": "The Scourge",
+    "cycle_id": "warlord_cycle",
+    "position": 2
+  },
+  {
+    "id": "gift_of_the_ethereals",
+    "name": "Gift of the Ethereals",
+    "cycle_id": "warlord_cycle",
+    "position": 3
+  },
+  {
+    "id": "zogworts_curse",
+    "name": "Zogwort's Curse",
+    "cycle_id": "warlord_cycle",
+    "position": 4
+  },
+  {
+    "id": "the_threat_beyond",
+    "name": "The Threat Beyond",
+    "cycle_id": "warlord_cycle",
+    "position": 5
+  },
+  {
+    "id": "descendants_of_isha",
+    "name": "Descendants of Isha",
+    "cycle_id": "warlord_cycle",
+    "position": 6
+  },
+  {
+    "id": "decree_of_ruin",
+    "name": "Decree of Ruin",
+    "cycle_id": "planetfall_cycle",
+    "position": 1
+  },
+  {
+    "id": "boundless_hate",
+    "name": "Boundless Hate",
+    "cycle_id": "planetfall_cycle",
+    "position": 2
+  },
+  {
+    "id": "deadly_salvage",
+    "name": "Deadly Salvage",
+    "cycle_id": "planetfall_cycle",
+    "position": 3
+  },
+  {
+    "id": "what_lurks_below",
+    "name": "What Lurks Below",
+    "cycle_id": "planetfall_cycle",
+    "position": 4
+  },
+  {
+    "id": "wrath_of_the_crusaders",
+    "name": "Wrath of the Crusaders",
+    "cycle_id": "planetfall_cycle",
+    "position": 5
+  },
+  {
+    "id": "the_final_gambit",
+    "name": "The Final Gambit",
+    "cycle_id": "planetfall_cycle",
+    "position": 6
+  },
+  {
+    "id": "jungles_of_nectavus",
+    "name": "Jungles of Nectavus",
+    "cycle_id": "death_world_cycle",
+    "position": 1
+  },
+  {
+    "id": "unforgiven",
+    "name": "Unforgiven",
+    "cycle_id": "death_world_cycle",
+    "position": 2
+  },
+  {
+    "id": "slash_and_burn",
+    "name": "Slash and Burn",
+    "cycle_id": "death_world_cycle",
+    "position": 3
+  },
+  {
+    "id": "searching_for_truth",
+    "name": "Searching for Truth",
+    "cycle_id": "death_world_cycle",
+    "position": 4
+  },
+  {
+    "id": "against_the_great_enemy",
+    "name": "Against the Great Enemy",
+    "cycle_id": "death_world_cycle",
+    "position": 5
+  },
+  {
+    "id": "the_warp_unleashed",
+    "name": "The Warp Unleashed",
+    "cycle_id": "death_world_cycle",
+    "position": 6
+  },
+  {
+    "id": "by_imperial_decree",
+    "name": "By Imperial Decree",
+    "cycle_id": "confrontation_cycle",
+    "position": 1
+  },
+  {
+    "id": "the_laughing_god",
+    "name": "The Laughing God",
+    "cycle_id": "confrontation_cycle",
+    "position": 2
+  },
+  {
+    "id": "a_mask_falls_off",
+    "name": "A Mask Falls Off",
+    "cycle_id": "confrontation_cycle",
+    "position": 3
+  },
+
+
+  {
+    "id": "promise_of_war",
+    "name": "Promise of War",
+    "cycle_id": "navida_prime_cycle",
+    "position": 1
+  },
+  {
+    "id": "breaching_the_veil",
+    "name": "Breaching the Veil",
+    "cycle_id": "navida_prime_cycle",
+    "position": 2
+  },
+  {
+    "id": "enemy_territory",
+    "name": "Enemy Territory",
+    "cycle_id": "navida_prime_cycle",
+    "position": 3
+  },
+  {
+    "id": "overrun",
+    "name": "Overrun",
+    "cycle_id": "navida_prime_cycle",
+    "position": 4
+  },
+
+  {
+    "id": "aligned_stars",
+    "name": "Aligned Stars",
+    "cycle_id": "navida_prime_cycle",
+    "position": 5
   },
   {
     "id": "chronicles_of_heroes",
     "name": "Chronicles of Heroes",
-    "position": 2
+    "cycle_id": "chronicles_of_heroes",
+    "position": 1
   },
   {
-    "id": "confrontation_cycle",
-    "name": "Confrontation Cycle",
-    "position": 3
-  },
-  {
-    "id": "death_world_cycle",
-    "name": "Death World Cycle",
-    "position": 4
+    "id": "defenders_of_the_faith",
+    "name": "Defenders of the Faith",
+    "position": 1,
+    "cycle_id": "defenders_of_the_faith"
   },
   {
     "id": "legions_of_death",
     "name": "Legions of Death",
-    "position": 5
-  },
-  {
-    "id": "navida_prime_cycle",
-    "name": "Navida Prime Cycle",
-    "position": 6
-  },
-  {
-    "id": "planetfall_cycle",
-    "name": "Planetfall Cycle",
-    "position": 7
-  },
-  {
-    "id": "the_bloodied_path",
-    "name": "The Bloodied Path",
-    "position": 8
-  },
-  {
-    "id": "the_great_devourer",
-    "name": "The Great Devourer",
-    "position": 9
-  },
-  {
-    "id": "warlord_cycle",
-    "name": "Warlord Cycle",
-    "position": 10
+    "position": 1,
+    "cycle_id": "legions_of_death"
   }
 ]
