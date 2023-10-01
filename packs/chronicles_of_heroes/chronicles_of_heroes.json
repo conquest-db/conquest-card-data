@@ -8,6 +8,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 45,
         "unique": true,
         "keywords": null,
         "traits": "Grey Knights, Soldier",
@@ -36,6 +37,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 4,
+        "signature_id": 45,
         "unique": false,
         "keywords": null,
         "traits": "Grey Knights, Soldier",
@@ -48,7 +50,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -59,6 +66,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 2,
+        "signature_id": 45,
         "unique": false,
         "keywords": null,
         "traits": "Grey Knights, Power",
@@ -71,7 +79,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -82,6 +95,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 45,
         "unique": true,
         "keywords": null,
         "traits": "Daemon, Wargear",
@@ -94,7 +108,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -105,6 +124,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 45,
         "unique": false,
         "keywords": null,
         "traits": "Creed, Grey Knights",
@@ -117,7 +137,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -128,6 +153,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 46,
         "unique": true,
         "keywords": null,
         "traits": "Blood Angels, Myth",
@@ -156,6 +182,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 4,
+        "signature_id": 46,
         "unique": false,
         "keywords": null,
         "traits": "Blood Angels, Elite",
@@ -168,7 +195,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -179,6 +211,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 2,
+        "signature_id": 46,
         "unique": false,
         "keywords": null,
         "traits": "Tale",
@@ -191,7 +224,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -202,6 +240,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 46,
         "unique": true,
         "keywords": "Deep Strike (0)",
         "traits": "Wargear",
@@ -214,7 +253,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418047032/A13F0B125DC074C40FCE32C6F9EA65CB187B1BAB/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -225,6 +269,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "signature",
         "quantity": 1,
+        "signature_id": 46,
         "unique": false,
         "keywords": null,
         "traits": "Blood Angels, Flaw",
@@ -237,7 +282,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -248,6 +298,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Retaliate (1)",
         "traits": "Soldier, Ultramarines",
@@ -260,7 +311,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -271,6 +327,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Retaliate (1)",
         "traits": "Soldier, Ultramarines",
@@ -283,7 +340,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -294,6 +356,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Retaliate (1)",
         "traits": "Psyker, Ultramarines",
@@ -306,7 +369,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -317,6 +385,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": "Lumbering, No Attachments, Retaliate (5)",
         "traits": "Questor Imperialis",
@@ -329,7 +398,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -340,6 +414,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Soldier, Space Wolves",
@@ -352,7 +427,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -363,6 +443,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Grey Knights, Soldier",
@@ -375,7 +456,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418050513/95FEBC000A1208F1C2DA3BF32F1BE09503881432/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -386,6 +472,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Grey Knights, Soldier",
@@ -398,7 +485,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -409,6 +501,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Grey Knights, Soldier",
@@ -421,7 +514,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -432,6 +530,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "No Wargear Attachments",
         "traits": "Black Templars, Vehicle",
@@ -444,7 +543,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -455,6 +559,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Black Templars, Martyr",
@@ -467,7 +572,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -478,6 +588,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": "Deep Strike (2)",
         "traits": "Dark Angels, Soldier",
@@ -490,7 +601,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -501,6 +617,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Deep Strike (1), Flying, No Wargear Attachments",
         "traits": "Dark Angels, Vehicle",
@@ -513,7 +630,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -524,6 +646,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Tactic",
@@ -536,7 +659,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418051985/28405AB4AEDDB94003C0552516801555BE600ECF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -547,6 +675,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Vow",
@@ -559,7 +688,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -570,6 +704,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Wargear",
@@ -582,7 +717,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -593,6 +733,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Deep Strike (1)",
         "traits": "Wargear",
@@ -605,7 +746,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -616,6 +762,7 @@
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": null,
         "traits": "Upgrade",
@@ -628,7 +775,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -638,7 +790,8 @@
         "type_id": "support",
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -652,7 +805,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -662,7 +820,8 @@
         "type_id": "support",
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -676,7 +835,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -686,7 +850,8 @@
         "type_id": "support",
         "faction_id": "space_marines",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -700,7 +865,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -711,6 +881,7 @@
         "faction_id": "astra_militarum",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Lumbering",
         "traits": "Ecclesiarchy, Martyr",
@@ -723,7 +894,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -734,6 +910,7 @@
         "faction_id": "orks",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Nob, Warrior",
@@ -746,7 +923,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -756,7 +938,8 @@
         "type_id": "support",
         "faction_id": "eldar",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -770,7 +953,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -780,7 +968,8 @@
         "type_id": "support",
         "faction_id": "eldar",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -794,7 +983,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -804,7 +998,8 @@
         "type_id": "support",
         "faction_id": "eldar",
         "loyalty_id": "common",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -818,7 +1013,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -829,6 +1029,7 @@
         "faction_id": "dark_eldar",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "Lumbering",
         "traits": "Abomination, Creature, Elite",
@@ -841,7 +1042,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418055048/9C6826848706F69EDE0AE4E22FE9B2A4F6C7B506/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -851,7 +1057,8 @@
         "type_id": "support",
         "faction_id": "dark_eldar",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -865,7 +1072,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418074444/C1E3405140D000CDAA46D04982256BC8D13E69FF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -875,7 +1087,8 @@
         "type_id": "support",
         "faction_id": "dark_eldar",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -889,7 +1102,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -899,7 +1117,8 @@
         "type_id": "support",
         "faction_id": "dark_eldar",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -913,7 +1132,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -924,6 +1148,7 @@
         "faction_id": "chaos",
         "loyalty_id": "loyal",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Slaanesh, Warrior",
@@ -936,7 +1161,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -946,7 +1176,8 @@
         "type_id": "support",
         "faction_id": "chaos",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -960,7 +1191,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -970,7 +1206,8 @@
         "type_id": "support",
         "faction_id": "chaos",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -984,7 +1221,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -994,7 +1236,8 @@
         "type_id": "support",
         "faction_id": "chaos",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1008,7 +1251,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1018,7 +1266,8 @@
         "type_id": "support",
         "faction_id": "tau",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1032,7 +1281,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1042,7 +1296,8 @@
         "type_id": "support",
         "faction_id": "tau",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1056,7 +1311,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 6,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418076508/D828B3C7A83638129E90AD91C779EC8333569700/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1066,7 +1326,8 @@
         "type_id": "support",
         "faction_id": "tau",
         "loyalty_id": "loyal",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1080,7 +1341,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1091,6 +1357,7 @@
         "faction_id": "tyranids",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": null,
         "traits": "Creature, Elite",
@@ -1103,7 +1370,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1114,6 +1386,7 @@
         "faction_id": "tyranids",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": null,
         "traits": "Creature, Elite",
@@ -1126,7 +1399,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1746815079418057039/EA8BFEC4D7B1362880CD5FAD3585634A0399FE4E/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1136,7 +1414,8 @@
         "type_id": "support",
         "faction_id": "tyranids",
         "loyalty_id": "common",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1150,7 +1429,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1160,7 +1444,8 @@
         "type_id": "support",
         "faction_id": "tyranids",
         "loyalty_id": "common",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": true,
         "keywords": null,
         "traits": "Pledge",
@@ -1174,7 +1459,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 2,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1184,7 +1474,8 @@
         "type_id": "support",
         "faction_id": "tyranids",
         "loyalty_id": "common",
-        "quantity": 1,
+        "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Pledge",
@@ -1198,7 +1489,12 @@
         "preparation": true,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645325483/0454D0E5B68315B7DCCC21C79DB701D64E3845AF/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1209,6 +1505,7 @@
         "faction_id": "necrons",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Power",
@@ -1221,7 +1518,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1232,6 +1534,7 @@
         "faction_id": "neutral",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Cycle",
@@ -1244,7 +1547,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 1,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1255,6 +1563,7 @@
         "faction_id": "astra_militarum",
         "loyalty_id": "signature",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": "No Wargear Attachments",
         "traits": "Tank, Vehicle, Vostroya",
@@ -1267,7 +1576,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1709660756466758712/DA1FCC8EB8FE57EAD3FDD4E50403E7E7A46472CC/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1709660756466758712/DA1FCC8EB8FE57EAD3FDD4E50403E7E7A46472CC/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1278,6 +1592,7 @@
         "faction_id": "tau",
         "loyalty_id": "signature",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Soldier",
@@ -1290,7 +1605,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 3,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1301,6 +1621,7 @@
         "faction_id": "chaos",
         "loyalty_id": "signature",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Khorne, Warrior, World Eaters",
@@ -1313,7 +1634,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 4,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1324,6 +1650,7 @@
         "faction_id": "tau",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Ally, Kroot, Scout",
@@ -1336,7 +1663,12 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 5,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1687143405645316555/411EBDF0B6B530DA03D512E43F8BFDBB910C2B88/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     },
     {
         "pack_id": "chronicles_of_heroes",
@@ -1347,6 +1679,7 @@
         "faction_id": "eldar",
         "loyalty_id": "common",
         "quantity": 3,
+        "signature_id": null,
         "unique": false,
         "keywords": null,
         "traits": "Elite, Warrior",
@@ -1359,6 +1692,11 @@
         "preparation": false,
         "flavor": null,
         "tts_sheet_position": 0,
-        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1709660756466766071/DAB2809B52573B114E3BCAAFCE558971B5FF0894/"
+        "tts_sheet_url": "http://cloud-3.steamusercontent.com/ugc/1709660756466766071/DAB2809B52573B114E3BCAAFCE558971B5FF0894/",
+        "back_traits": null,
+        "back_text": null,
+        "back_attack": null,
+        "back_health": null,
+        "back_tts_sheet_url": null
     }
 ]

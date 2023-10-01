@@ -7,6 +7,7 @@
         "type_id": "warlord",
         "faction_id": "eldar",
         "loyalty_id": "signature",
+        "signature_id": 24,
         "quantity": 1,
         "unique": true,
         "keywords": null,

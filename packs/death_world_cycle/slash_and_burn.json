@@ -7,6 +7,7 @@
         "type_id": "warlord",
         "faction_id": "astra_militarum",
         "loyalty_id": "signature",
+        "signature_id": 28,
         "quantity": 1,
         "unique": true,
         "keywords": null,

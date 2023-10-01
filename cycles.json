@@ -1,57 +1,57 @@
 [
   {
-    "id": "core",
+    "id": "COR",
     "name": "Core",
     "position": 1
   },
   {
-    "id": "warlord_cycle",
+    "id": "WRL",
     "name": "Warlord Cycle",
     "position": 2
   },
   {
-    "id": "planetfall_cycle",
-    "name": "Planetfall Cycle",
+    "id": "TGD",
+    "name": "The Great Devourer",
     "position": 3
   },
   {
-    "id": "death_world_cycle",
-    "name": "Death World Cycle",
+    "id": "PLT",
+    "name": "Planetfall Cycle",
     "position": 4
   },
   {
-    "id": "chronicles_of_heroes",
-    "name": "Chronicles of Heroes",
+    "id": "LOD",
+    "name": "Legions of Death",
     "position": 5
   },
   {
-    "id": "confrontation_cycle",
-    "name": "Confrontation Cycle",
+    "id": "DTH",
+    "name": "Death World Cycle",
     "position": 6
   },
   {
-    "id": "legions_of_death",
-    "name": "Legions of Death",
+    "id": "NAV",
+    "name": "Navida Prime Cycle",
     "position": 7
   },
   {
-    "id": "navida_prime_cycle",
-    "name": "Navida Prime Cycle",
+    "id": "DOF",
+    "name": "Defenders of the Faith",
     "position": 8
   },
   {
-    "id": "the_bloodied_path",
-    "name": "The Bloodied Path",
+    "id": "CNF",
+    "name": "Confrontation Cycle",
     "position": 9
   },
   {
-    "id": "the_great_devourer",
-    "name": "The Great Devourer",
+    "id": "COH",
+    "name": "Chronicles of Heroes",
     "position": 10
   },
   {
-    "id": "defenders_of_the_faith",
-    "name": "Defenders of the Faith",
+    "id": "TBP",
+    "name": "The Bloodied Path",
     "position": 11
   }
 ]

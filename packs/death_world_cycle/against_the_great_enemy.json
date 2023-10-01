@@ -10,6 +10,7 @@
         "quantity": 1,
         "unique": true,
         "keywords": null,
+        "signature_id": 30,
         "traits": "Phoenix Lord, Warrior",
         "text": "[INTERRUPT]: When your opponent targets a unit you control at this planet with a triggered effect, cancel that effect. (Limit once per round.)",
         "cost": null,

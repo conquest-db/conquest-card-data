@@ -5,6 +5,7 @@
         "position": "10791",
         "name": "“Parasite of Mortrex”",
         "type_id": "warlord",
+        "signature_id": 33,
         "faction_id": "tyranids",
         "loyalty_id": "signature",
         "quantity": 1,

@@ -11,6 +11,7 @@
         "unique": true,
         "keywords": null,
         "traits": "Phaeron, Sautekh",
+        "signature_id": 36,
         "text": "[COMBAT ACTION]: Remove from the game a non-unique non-Elite card in your discard pile to replace the text box of a non-unique non-Elite card in play of the same type you control with the removed card text box until the end of the phase. (Limit once per phase.)",
         "cost": null,
         "attack": 2,

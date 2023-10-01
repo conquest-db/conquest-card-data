@@ -7,6 +7,7 @@
       "type_id": "warlord",
       "faction_id": "space_marines",
       "loyalty_id": "signature",
+      "signature_id": 27,
       "quantity": 1,
       "unique": true,
       "keywords": null,

@@ -2,190 +2,207 @@
   {
     "id": "core",
     "name": "Core set",
-    "cycle_id": "core",
+    "cycle_id": "COR",
     "position": 1
   },
   {
     "id": "the_howl_of_blackmane",
     "name": "the_howl_of_blackmane",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 1
   },
   {
     "id": "the_scourge",
     "name": "The Scourge",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 2
   },
   {
     "id": "gift_of_the_ethereals",
     "name": "Gift of the Ethereals",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 3
   },
   {
     "id": "zogworts_curse",
     "name": "Zogwort's Curse",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 4
   },
   {
     "id": "the_threat_beyond",
     "name": "The Threat Beyond",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 5
   },
   {
     "id": "descendants_of_isha",
     "name": "Descendants of Isha",
-    "cycle_id": "warlord_cycle",
+    "cycle_id": "WRL",
     "position": 6
-  },
-  {
-    "id": "decree_of_ruin",
-    "name": "Decree of Ruin",
-    "cycle_id": "planetfall_cycle",
-    "position": 1
-  },
-  {
-    "id": "boundless_hate",
-    "name": "Boundless Hate",
-    "cycle_id": "planetfall_cycle",
-    "position": 2
-  },
-  {
-    "id": "deadly_salvage",
-    "name": "Deadly Salvage",
-    "cycle_id": "planetfall_cycle",
-    "position": 3
-  },
-  {
-    "id": "what_lurks_below",
-    "name": "What Lurks Below",
-    "cycle_id": "planetfall_cycle",
-    "position": 4
-  },
-  {
-    "id": "wrath_of_the_crusaders",
-    "name": "Wrath of the Crusaders",
-    "cycle_id": "planetfall_cycle",
-    "position": 5
-  },
-  {
-    "id": "the_final_gambit",
-    "name": "The Final Gambit",
-    "cycle_id": "planetfall_cycle",
-    "position": 6
-  },
-  {
-    "id": "jungles_of_nectavus",
-    "name": "Jungles of Nectavus",
-    "cycle_id": "death_world_cycle",
-    "position": 1
-  },
-  {
-    "id": "unforgiven",
-    "name": "Unforgiven",
-    "cycle_id": "death_world_cycle",
-    "position": 2
-  },
-  {
-    "id": "slash_and_burn",
-    "name": "Slash and Burn",
-    "cycle_id": "death_world_cycle",
-    "position": 3
-  },
-  {
-    "id": "searching_for_truth",
-    "name": "Searching for Truth",
-    "cycle_id": "death_world_cycle",
-    "position": 4
-  },
-  {
-    "id": "against_the_great_enemy",
-    "name": "Against the Great Enemy",
-    "cycle_id": "death_world_cycle",
-    "position": 5
-  },
-  {
-    "id": "the_warp_unleashed",
-    "name": "The Warp Unleashed",
-    "cycle_id": "death_world_cycle",
-    "position": 6
-  },
-  {
-    "id": "by_imperial_decree",
-    "name": "By Imperial Decree",
-    "cycle_id": "confrontation_cycle",
-    "position": 1
-  },
-  {
-    "id": "the_laughing_god",
-    "name": "The Laughing God",
-    "cycle_id": "confrontation_cycle",
-    "position": 2
-  },
-  {
-    "id": "a_mask_falls_off",
-    "name": "A Mask Falls Off",
-    "cycle_id": "confrontation_cycle",
-    "position": 3
-  },
-
-
-  {
-    "id": "promise_of_war",
-    "name": "Promise of War",
-    "cycle_id": "navida_prime_cycle",
-    "position": 1
-  },
-  {
-    "id": "breaching_the_veil",
-    "name": "Breaching the Veil",
-    "cycle_id": "navida_prime_cycle",
-    "position": 2
-  },
-  {
-    "id": "enemy_territory",
-    "name": "Enemy Territory",
-    "cycle_id": "navida_prime_cycle",
-    "position": 3
-  },
-  {
-    "id": "overrun",
-    "name": "Overrun",
-    "cycle_id": "navida_prime_cycle",
-    "position": 4
-  },
-
-  {
-    "id": "aligned_stars",
-    "name": "Aligned Stars",
-    "cycle_id": "navida_prime_cycle",
-    "position": 5
-  },
-  {
-    "id": "chronicles_of_heroes",
-    "name": "Chronicles of Heroes",
-    "cycle_id": "chronicles_of_heroes",
-    "position": 1
-  },
-  {
-    "id": "defenders_of_the_faith",
-    "name": "Defenders of the Faith",
-    "position": 1,
-    "cycle_id": "defenders_of_the_faith"
-  },
-  {
-    "id": "legions_of_death",
-    "name": "Legions of Death",
-    "position": 1,
-    "cycle_id": "legions_of_death"
   },
   {
     "id": "the_great_devourer",
     "name": "The Great Devourer",
     "position": 1,
-    "cycle_id": "the_great_devourer"
+    "cycle_id": "TGD"
+  },
+  {
+    "id": "decree_of_ruin",
+    "name": "Decree of Ruin",
+    "cycle_id": "PLT",
+    "position": 1
+  },
+  {
+    "id": "boundless_hate",
+    "name": "Boundless Hate",
+    "cycle_id": "PLT",
+    "position": 2
+  },
+  {
+    "id": "deadly_salvage",
+    "name": "Deadly Salvage",
+    "cycle_id": "PLT",
+    "position": 3
+  },
+  {
+    "id": "what_lurks_below",
+    "name": "What Lurks Below",
+    "cycle_id": "PLT",
+    "position": 4
+  },
+  {
+    "id": "wrath_of_the_crusaders",
+    "name": "Wrath of the Crusaders",
+    "cycle_id": "PLT",
+    "position": 5
+  },
+  {
+    "id": "the_final_gambit",
+    "name": "The Final Gambit",
+    "cycle_id": "PLT",
+    "position": 6
+  },
+  {
+    "id": "legions_of_death",
+    "name": "Legions of Death",
+    "position": 1,
+    "cycle_id": "LOD"
+  },
+  {
+    "id": "jungles_of_nectavus",
+    "name": "Jungles of Nectavus",
+    "cycle_id": "DTH",
+    "position": 1
+  },
+  {
+    "id": "unforgiven",
+    "name": "Unforgiven",
+    "cycle_id": "DTH",
+    "position": 2
+  },
+  {
+    "id": "slash_and_burn",
+    "name": "Slash and Burn",
+    "cycle_id": "DTH",
+    "position": 3
+  },
+  {
+    "id": "searching_for_truth",
+    "name": "Searching for Truth",
+    "cycle_id": "DTH",
+    "position": 4
+  },
+  {
+    "id": "against_the_great_enemy",
+    "name": "Against the Great Enemy",
+    "cycle_id": "DTH",
+    "position": 5
+  },
+  {
+    "id": "the_warp_unleashed",
+    "name": "The Warp Unleashed",
+    "cycle_id": "DTH",
+    "position": 6
+  },
+
+  {
+    "id": "promise_of_war",
+    "name": "Promise of War",
+    "cycle_id": "NAV",
+    "position": 1
+  },
+  {
+    "id": "breaching_the_veil",
+    "name": "Breaching the Veil",
+    "cycle_id": "NAV",
+    "position": 2
+  },
+  {
+    "id": "enemy_territory",
+    "name": "Enemy Territory",
+    "cycle_id": "NAV",
+    "position": 3
+  },
+  {
+    "id": "overrun",
+    "name": "Overrun",
+    "cycle_id": "NAV",
+    "position": 4
+  },
+  {
+    "id": "aligned_stars",
+    "name": "Aligned Stars",
+    "cycle_id": "NAV",
+    "position": 5
+  },
+  {
+    "id": "defenders_of_the_faith",
+    "name": "Defenders of the Faith",
+    "position": 1,
+    "cycle_id": "DOF"
+  },
+
+  {
+    "id": "by_imperial_decree",
+    "name": "By Imperial Decree",
+    "cycle_id": "CNF",
+    "position": 1
+  },
+  {
+    "id": "the_laughing_god",
+    "name": "The Laughing God",
+    "cycle_id": "CNF",
+    "position": 2
+  },
+  {
+    "id": "a_mask_falls_off",
+    "name": "A Mask Falls Off",
+    "cycle_id": "CNF",
+    "position": 3
+  },
+  {
+    "id": "chronicles_of_heroes",
+    "name": "Chronicles of Heroes",
+    "cycle_id": "COH",
+    "position": 1
+  },
+  {
+    "id": "for_the_enclave",
+    "name": "For the Enclave",
+    "cycle_id": "TBP",
+    "position": 1
+  },
+  {
+    "id": "herald_of_the_plague_god",
+    "name": "Herald of the Plague God",
+    "cycle_id": "TBP",
+    "position": 2
+  },
+  {
+    "id": "the_shadow_in_the_warp",
+    "name": "The Shadow in the Warp",
+    "cycle_id": "TBP",
+    "position": 3
   }
 ]
